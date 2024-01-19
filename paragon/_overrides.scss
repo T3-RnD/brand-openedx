@@ -1,12 +1,14 @@
 // Use this file to define style overrides for @edx/paragon
 // This file is included after all Paragon styles, but should generally avoid using private mixins in Paragon.
-div.col-md-9{
-.large-screen-svg-primary {
-    fill: #f1eff2;
-}
 .bg-primary-400 {
     background-color: #f1eff2!important;
 }
+.large-screen-svg-primary {
+    fill: #f1eff2;
+}
+div.col-md-9{
+
+
 .text-white {
     color: #1e3063!important;
 }}
